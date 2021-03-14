@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+body{
+    border: solid;
+}
+
+.opening{
+    font-size: larger;
+
+    background-color: bisque;
+}
+
+.links{
+    display: flex;
+
+    flex-direction: row;
+
+    align-items: flex-end;
+
+    border: solid;
+
+    justify-content: space-evenly;
+}
